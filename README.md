@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iEnzo-G, i'm 25 years old.
+- 👋 Hi, I’m @iEnzo-G, i'm 26 years old.
 - 👀 I’m interested in Developing of iOS app
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Apple, why not after all
