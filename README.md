@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iEnzo-G, i'm 26 years old.
-- 👀 I’m interested in Developing of iOS app
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Apple, why not after all
+- 👋 Hi, I’m @iEnzo-G, i'm 28 years old.
+- 👀 I’m interested in Developing of iOS app ! Looking to learn AR to develop more VisionPro, I love it !
+- 🌱 I’m currently working for my own company
+- 💞️ I’m looking to collaborate with international country (looking for Japan and America actually)
 - 📫 How to reach me ? Send me an mail on gamminoenzo.developper@gmail.com
 
 <!---
